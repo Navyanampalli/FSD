@@ -1,7 +1,7 @@
 const user = {
     name: "Navya",
-    age: 30,
-    email: "john.doe@example.com",
+    age:20,
+    email: "navya@example.com",
     address: "123 Main St"
   };
   
